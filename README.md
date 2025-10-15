@@ -1,4 +1,4 @@
-# My Next Project
+# Shopping Cart
 
 A simple web application built with HTML, CSS, and JavaScript using Vite.
 
