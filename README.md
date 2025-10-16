@@ -20,7 +20,6 @@ Fully functional without any external libraries or frameworks.
 ## Technologies Used
 
 HTML5
-
 CSS3
-
 JavaScript (ES6 Classes, DOM Manipulation)
+React (useMemo() and useCallback() hooks)
